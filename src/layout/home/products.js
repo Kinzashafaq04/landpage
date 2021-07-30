@@ -16,11 +16,11 @@ function Products() {
 
 
 
-    return <div className='  pro'>
+    return <div className='pro'>
         {/* <div>
             {product}
         </div> */}
-        <div><h1>Trending Deals </h1></div>
+        <div><h1>Trending Deals: </h1></div>
         <div className="row p-0 m-0 ">
             <div className="col-md-2">
                 <Card imageSrc='https://z.nooncdn.com/products/tr:n-t_240/v1610784898/N43748990A_1.jpg' title='U-HOOME Push pro' details='Bubble fidge sensor' price='AED 8.00' />

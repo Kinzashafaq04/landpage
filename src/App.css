@@ -18,10 +18,10 @@
   color: blue;
 }
 .pick img {
-  margin-left: 100px;
+  margin-left: 60px;
   padding-left: 20px;
   height: auto;
-  width: 150px;
+  width: 120px;
 
 }
  svg{
@@ -61,4 +61,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .imground{
   width : 100px;
+}
+.pro{
+  margin-left: 50px;
 }
